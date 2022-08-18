@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Lilianada/Lilianada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,11 +22,11 @@ I am a front-end web developer and product manager with robust problem-solving s
 
 **Here are a few projects that I am proud of**:
 
--https://coloringcultures.netlify.app/
--https://cloudnimi.netlify.app/
--https://journalsyourway.com/
--https://personalitychecker.netlify.app/
--https://github-user-profile-search.netlify.app/
+- [Coloring Cultures](https://coloringcultures.netlify.app/)
+- [Cloudnimi](https://cloudnimi.netlify.app/)
+- [Journals Your Way](https://journalsyourway.com/)
+- [Personality Checker](https://personalitychecker.netlify.app/)
+- [Github User Profile Checker](https://github-user-profile-search.netlify.app/)
 
 
 **Here's a quick summary about me**:
@@ -36,11 +34,12 @@ I am a front-end web developer and product manager with robust problem-solving s
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and also enrolled as a student in the cohort 9 of the ALX Software Engineering program.
 - 🌱 I’m currently learning JavaScript and Reactjs.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- ⚡ I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, UI Engineer (Intern or Junior level) or Product Manager roles.
 - 📫 You can [view my resume](https://drive.google.com/file/d/1lwCFsUANpwbBEY5ITvkMdPvXcUDyI3GO/view?usp=sharing) and contact me by emailing lilianokeke.ca@gmail.com.
+- ✨ Hobbies: Desigining dresses, Painting and Watching K-Dramas.
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?lilianada=anuraghazra&show_icons=true&include_all_commits=true&hide_border=true)" alt="Lilian's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilianada&langs_count=8&layout=compact&hide_border=true" alt="Lilian's GitHub Stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lilianada&show_icons=true&include_all_commits=true&hide_border=true)" alt="Lilian's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilianada&langs_count=8&layout=compact&hide_border=true" alt="Lilian's GitHub Stats" /> |
 | ------------- | ------------- |
