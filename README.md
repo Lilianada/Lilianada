@@ -21,7 +21,7 @@ I am a front-end web developer and product manager with robust problem-solving s
 
 
 **Here are a few projects that I am proud of**:
-
+- BeBlended
 - [Coloring Cultures](https://coloringcultures.netlify.app/)
 - [NFT Invaders](https://nftinvaderz.com/)
 - [Cloudnimi](https://cloudnimi.netlify.app/)
