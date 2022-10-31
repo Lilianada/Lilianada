@@ -33,10 +33,10 @@ I am a front-end web developer and product manager with robust problem-solving s
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and also enrolled as a student in the cohort 9 of the ALX Software Engineering program.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript and Reactjs.
 - ⚡ I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, UI Engineer (Intern or Junior level) or Product Manager roles.
+- 💼 Job interests: Software Engineer, Front Engineer, UI Engineer (Intern or Junior level) or Product Management roles.
 - 📫 You can [view my resume](https://drive.google.com/file/d/1lwCFsUANpwbBEY5ITvkMdPvXcUDyI3GO/view?usp=sharing) and contact me by emailing lilianokeke.ca@gmail.com.
 - ✨ Hobbies: Desigining dresses, Painting and Watching K-Dramas.
 
