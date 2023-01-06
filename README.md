@@ -30,6 +30,7 @@ I am a front-end web developer and product manager with robust problem-solving s
 - [Personality Checker](https://personalitychecker.netlify.app/)
 - [Github User Profile Checker](https://github-user-profile-search.netlify.app/)
 - [Github API Repo Display](https://github-repo-display.netlify.app/)
+- [React Calculator](https://lily-react-calculator.vercel.app/)
 
 
 **Here's a quick summary about me**:
