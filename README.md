@@ -23,14 +23,14 @@ I am a front-end web developer and product manager with robust problem-solving s
 **Here are a few projects that I am proud of**:
 - BeBlended
 - [Coloring Cultures](https://coloringcultures.app/)
-- [Lily's Portfolio](https://lilydesigned.vercel.app/)
-- [Cloudnimi](https://cloudnimi.netlify.app/)
+- [FatBoss](https://fatbosskasyno.pl/)
 - [Journals Your Way](https://journalsyourway.com/)
-- [FatBoss](https://fatboss.vercel.app/)
-- [Personality Checker](https://personalitychecker.netlify.app/)
+- [Cloudnimi](https://cloudnimi.netlify.app/)
+- [Lily's Portfolio](https://lilydesigned.vercel.app/)
 - [Github User Profile Checker](https://github-user-profile-search.netlify.app/)
 - [Github API Repo Display](https://github-repo-display.netlify.app/)
 - [React Calculator](https://lily-react-calculator.vercel.app/)
+- [Personality Checker](https://personalitychecker.netlify.app/)
 
 
 **Here's a quick summary about me**:
