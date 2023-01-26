@@ -21,7 +21,6 @@ I am a front-end web developer and product manager with robust problem-solving s
 
 
 **Here are a few projects that I am proud of**:
-- BeBlended
 - [Coloring Cultures](https://coloringcultures.app/)
 - [FatBoss](https://fatbosskasyno.pl/)
 - [Journals Your Way](https://journalsyourway.com/)
@@ -31,6 +30,7 @@ I am a front-end web developer and product manager with robust problem-solving s
 - [Github API Repo Display](https://github-repo-display.netlify.app/)
 - [React Calculator](https://lily-react-calculator.vercel.app/)
 - [Personality Checker](https://personalitychecker.netlify.app/)
+- BeBlended
 
 
 **Here's a quick summary about me**:
