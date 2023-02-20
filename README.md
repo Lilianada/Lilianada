@@ -21,6 +21,8 @@ I am a front-end web developer and product manager with robust problem-solving s
 
 
 **Here are a few projects that I am proud of**:
+- [The Video Game Vault](https://the-videogame-vault.netlify.app/)
+- [FunConnect](https://fun-connect.vercel.app/)
 - [Coloring Cultures](https://coloringcultures.app/)
 - [FatBoss](https://fatbosskasyno.pl/)
 - [Journals Your Way](https://journalsyourway.com/)
