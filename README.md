@@ -35,7 +35,7 @@ Looking forward to connecting with professionals and organizations passionate ab
 - [Coloring Cultures](https://coloringcultures.app/)
 - [Cloudnimi](https://cloudnimi.netlify.app/)
 - [Journals Your Way](https://journalsyourway.com/)
-- [BuildingBlqoues](https://buildingbloques.com/)
+- [BuildingBloques](https://buildingbloques.com/)
 - [Lily's Portfolio](https://lilydesigned.me/)
 
 
