@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 As a front-end developer specializing in Web Development, my primary goal is to create user experiences that align with individuals, organizations, and business goals.
 
-I am proficient in utilizing cutting-edge technologies such as React.js, Vue.js for web development. In addition to my core skills, my proficiency extends to HTML5, CSS3, JavaScript, TypeScript, and other associated tools.
+I am proficient in utilizing cutting-edge technologies such as React.js, and Next.js for web development. In addition to my core skills, my proficiency extends to HTML5, CSS3, JavaScript, TypeScript, Node.js, Express.js and other associated tools.
 
 With over four years of hands-on experience, I have developed and shipped innovative products to clients worldwide, ranging from startups to established corporations. I am furthering my expertise as the Lead Frontend Engineer with Supreme Marketing Limited, where I continue to enhance and refine my user interface design and development skills. I am also volunteering at She Code Africa as the Technical Lead of the frontend community where I manage the activities of the frontend community and implement strategies like the Pair Learning Program with over 200 participants to enhance community interaction and inclusivity.
 
@@ -31,24 +31,25 @@ Looking forward to connecting with professionals and organizations passionate ab
 - [BeBlended](https://www.beblended.ca/)
 - [Firmco-Admin-App](https://firmco-admin.vercel.app/)
 - [Firmco-Client-App](https://firmco-client.vercel.app/)
-- [FunConnect](https://fun-connect.vercel.app/)
+- [Chatter-App](https://chatter-client.vercel.app/)
+- [BuildingBloques](https://buildingbloques.com/)
+- [Lily's Portfolio](https://lilydesigned.me/)
+- [FunConnect](https://funconnect.app/)
 - [Coloring Cultures](https://coloringcultures.app/)
 - [Cloudnimi](https://cloudnimi.netlify.app/)
 - [Journals Your Way](https://journalsyourway.com/)
-- [BuildingBloques](https://buildingbloques.com/)
-- [Lily's Portfolio](https://lilydesigned.me/)
 
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I am a graduate at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning VueJs. 
-- 👩🏾‍💻 Languages I use: React js for Web and Flutter/dart for Mobile.
+- 💡 Fun fact: I have a BEd degree in primary education, a diploma degree in software engineering, and a pioneering student at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I’m currently learning Node.js/Express.js/MongoDB. 
+- 👩🏾‍💻 Languages I use: React.js, Next.js for Frontend and Node.js, Express.js for Backend.
 - ⚡ I’m open to full-time roles.
-- 💼 Job interests: Software Engineer, Front Web Engineer with React js (Junior or Mid level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1wq6AwO9M4gGSqm45Aq8uSHbKHveD5OOF/view?usp=sharing) and contact me by emailing lilianokeke.ca@gmail.com.
-- 🏋🏾 Hobbies: Hitting new PRs at the gym.
+- 💼 Job interests: Software Engineer, Front Web Engineer with React js (Mid-level).
+- 📫 You can [view my resume](https://drive.google.com/file/d/1lgrs9AJIzslAEzyXChPZ4_qci3jd2o3I/view?usp=sharing) and contact me by emailing lilianokeke.ca@gmail.com.
+- 🏋🏾 Hobbies: Hitting new PRs at the gym, training and encouraging women to become the fittest version of themselves, reading on my Kindle.
 
 ---
 
