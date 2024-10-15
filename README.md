@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 
 As a front-end developer specializing in Web Development, my primary goal is to create user experiences that align with individuals, organizations, and business goals.
 
-I am proficient in utilizing cutting-edge technologies such as React.js, and Next.js for web development. In addition to my core skills, my proficiency extends to HTML5, CSS3, JavaScript, TypeScript, Node.js, Express.js and other associated tools.
+I am proficient in utilizing cutting-edge technologies such as React.js, and Next.js for web development. In addition to my core skills, my proficiency extends to HTML5, CSS3, Tailwind, JavaScript, Node.js, Express.js and other associated tools.
 
-With over four years of hands-on experience, I have developed and shipped innovative products to clients worldwide, ranging from startups to established corporations. I am furthering my expertise as the Lead Frontend Engineer with Supreme Marketing Limited, where I continue to enhance and refine my user interface design and development skills. I am also volunteering at She Code Africa as the Technical Lead of the frontend community where I manage the activities of the frontend community and implement strategies like the Pair Learning Program with over 200 participants to enhance community interaction and inclusivity.
-
-I am consistently seeking out opportunities to leverage modern frameworks and libraries to deliver aesthetically pleasing, performant, and user-centric applications. I am always eager to learn and adapt to new technologies and best practices, ensuring that the digital products I create are functional, intuitive, accessible, and visually captivating.
+With over three years of hands-on experience, I have developed and shipped innovative products to clients worldwide, ranging from startups to established corporations. I am furthering my expertise as the Lead Frontend Engineer with Supreme Marketing Limited, where I continue to enhance and refine my user interface design and development skills. I am also volunteering at She Code Africa as the Technical Lead of the frontend community where I manage the activities of the frontend community and implement strategies like the Pair Learning Program with over 200 participants to enhance community interaction and inclusivity.
 
 Looking forward to connecting with professionals and organizations passionate about transforming user experiences through state-of-the-art web and mobile solutions.
 
@@ -44,12 +42,12 @@ Looking forward to connecting with professionals and organizations passionate ab
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I have a BEd degree in primary education, a diploma degree in software engineering, and a pioneering student at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Node.js/Express.js/MongoDB. 
 - 👩🏾‍💻 Languages I use: React.js, Next.js for Frontend and Node.js, Express.js for Backend.
-- ⚡ I’m open to full-time roles.
 - 💼 Job interests: Software Engineer, Front Web Engineer with React js (Mid-level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1lgrs9AJIzslAEzyXChPZ4_qci3jd2o3I/view?usp=sharing) and contact me by emailing lilianokeke.ca@gmail.com.
 - 🏋🏾 Hobbies: Hitting new PRs at the gym, training and encouraging women to become the fittest version of themselves, reading on my Kindle.
+- 🚀 Currently: Learning Node.js/Express.js/MongoDB, building new templates, and shipping MVPs at BuildingBloques Creative Studio.
+- ⚡ I’m open to full-time roles.
 
 ---
 
