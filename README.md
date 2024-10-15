@@ -29,13 +29,12 @@ Looking forward to connecting with professionals and organizations passionate ab
 - [BeBlended](https://www.beblended.ca/)
 - [Firmco-Admin-App](https://firmco-admin.vercel.app/)
 - [Firmco-Client-App](https://firmco-client.vercel.app/)
-- [Chatter-App](https://chatter-client.vercel.app/)
+- [Expert Transcript Helper](https://www.experttranscripthelper.com/)
 - [BuildingBloques](https://buildingbloques.com/)
 - [Lily's Portfolio](https://lilydesigned.me/)
+- [Chatter-App](https://chatter-client.vercel.app/)
 - [FunConnect](https://funconnect.app/)
-- [Coloring Cultures](https://coloringcultures.app/)
 - [Cloudnimi](https://cloudnimi.netlify.app/)
-- [Journals Your Way](https://journalsyourway.com/)
 
 
 **Here's a quick summary about me**:
