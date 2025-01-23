@@ -21,7 +21,7 @@ As a front-end developer specializing in Web Development, my primary goal is to 
 
 I am proficient in utilizing cutting-edge technologies such as React.js, and Next.js for web development. In addition to my core skills, my proficiency extends to HTML5, CSS3, Tailwind, JavaScript, Node.js, Express.js and other associated tools.
 
-With over three years of hands-on experience, I have developed and shipped innovative products to clients worldwide, ranging from startups to established corporations. I am furthering my expertise as the Lead Frontend Engineer with Supreme Marketing Limited, where I continue to enhance and refine my user interface design and development skills. I am also volunteering at She Code Africa as the Technical Lead of the frontend community where I manage the activities of the frontend community and implement strategies like the Pair Learning Program with over 200 participants to enhance community interaction and inclusivity.
+With over three years of hands-on experience, I have developed and shipped innovative products to clients worldwide, ranging from startups to established corporations. I am currently working at Building Bloques Creative Studio where I wear the hat of Product Manager. I am also volunteering at She Code Africa as the Technical Lead of the Frontend Channel where I manage the activities of the frontend channel and implement strategies like the Pair Learning Program with over 60+ participants to enhance community interaction and inclusivity.
 
 Looking forward to connecting with professionals and organizations passionate about transforming user experiences through state-of-the-art web and mobile solutions.
 
@@ -31,7 +31,7 @@ Looking forward to connecting with professionals and organizations passionate ab
 - [Firmco-Client-App](https://firmco-client.vercel.app/)
 - [Expert Transcript Helper](https://www.experttranscripthelper.com/)
 - [BuildingBloques](https://buildingbloques.com/)
-- [Lily's Portfolio](https://lilydesigned.me/)
+- [Lily's Portfolio](https://lilianada.com/)
 - [Chatter-App](https://chatter-client.vercel.app/)
 - [FunConnect](https://funconnect.app/)
 - [Cloudnimi](https://cloudnimi.netlify.app/)
@@ -43,7 +43,7 @@ Looking forward to connecting with professionals and organizations passionate ab
 - 💡 Fun fact: I have a BEd degree in primary education, a diploma degree in software engineering, and a pioneering student at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 👩🏾‍💻 Languages I use: React.js, Next.js for Frontend and Node.js, Express.js for Backend.
 - 💼 Job interests: Software Engineer, Front Web Engineer with React js (Mid-level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1lgrs9AJIzslAEzyXChPZ4_qci3jd2o3I/view?usp=sharing) and contact me by emailing lilianokeke.ca@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1dOZ0rbHTFD0qeojGsYCrhvlg0Kw1b-a4/view?usp=drive_link) and contact me by emailing lilianokeke.ca@gmail.com.
 - 🏋🏾 Hobbies: Hitting new PRs at the gym, training and encouraging women to become the fittest version of themselves, reading on my Kindle.
 - 🚀 Currently: Learning Node.js/Express.js/MongoDB, building new templates, and shipping MVPs at BuildingBloques Creative Studio.
 - ⚡ I’m open to full-time roles.
