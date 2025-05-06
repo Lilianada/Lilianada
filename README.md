@@ -36,6 +36,8 @@ Looking forward to connecting with professionals and organizations passionate ab
 - [Mini-App](https://mini.lilyslab.xyz/)
 - [AnimeUI Library](https://animejs-library.vercel.app/)
 - [GetRoastedOnline](https://getroastedonline.vercel.app/)
+- [RichText to Markdown](https://richtext-to-markdown.lilyslab.xyz/)
+- [CSS Unit Converter](https://css-unit-code-converter.vercel.app/)
 
 
 **Here's a quick summary about me**:
